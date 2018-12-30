@@ -2,7 +2,7 @@ Steganography lab with Stegosuite
 
 Objective
 
- The advantage of steganography is that you can hide data in plain sight, but you can really blow it if you don't follow some common sense rules. First, the small differences steganography introduces are hard to detect — unless you have the original. 
+ The advantage of steganography is that you can hide data in plain sight, but you can really blow it if you don't follow some common sense rules. First, the small differences steganography is are hard to detect unless you have the original. 
 
  The objective of this lab is to build a familiarity with Steganography by utilizing open source software to embed and extract data from images.
 
