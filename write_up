@@ -1,0 +1,35 @@
+Steganography lab with Stegosuite
+
+Objective
+
+ The advantage of steganography is that you can hide data in plain sight, but you can really blow it if you don't follow some common sense rules. First, the small differences steganography introduces are hard to detect — unless you have the original. 
+
+ The objective of this lab is to build a familiarity with Steganography by utilizing open source software to embed and extract data from images.
+
+Key Terms 
+
+Steganography: This art of hiding things in plain sight is an interesting way of relaying messages. The aim here is to hide text in images or other media without others realizing it. Some basic methods of doing this are discussed in the next section.
+
+Crypto: Cryptographically protecting your hidden messages can be fun, but bear in mind that it has to be feasibly reversible. The next chapter deals with crypto and some implementations that can be used in a rabbit trail as well as in other exercises.
+
+The objective of this lab is to build a facility with Steganography by utilizing open source software to embed and extract data from images. 
+
+1.      Extract hidden messages from the images you have been provided or located using Stegosuite.
+
+               Install Stegosuite via the command line using apt install stegosuite –y
+
+2.      Extract any and all data/information from the message you received (remember sometimes the littlest thing maybe a clue). 
+
+3.      Process the image file from the message with Stegosuite (note your results).
+
+4.      Using the information obtained in steps 1-3, use Open-source intelligence (OSINT) to proceed to forward. 
+
+5.      Using your Web browsers development tools locate what is hiding in plain sight.
+
+6.      Repeat steps 1-4 to extract the file hidden in the target image. 
+
+Closing 
+
+This lab should provide ample hands on examples of the methodology of entry level steganography. 
+
+*** Remember the littlest thing maybe a clue or even a red herring ***
